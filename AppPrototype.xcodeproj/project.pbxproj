@@ -14,6 +14,7 @@
 		8F1F9F8620E21B0D00BD1203 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8F1F9F8420E21B0D00BD1203 /* LaunchScreen.storyboard */; };
 		8F1F9F9120E21B0E00BD1203 /* AppPrototypeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F1F9F9020E21B0E00BD1203 /* AppPrototypeTests.swift */; };
 		8F1F9F9C20E21B0E00BD1203 /* AppPrototypeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F1F9F9B20E21B0E00BD1203 /* AppPrototypeUITests.swift */; };
+		8F1F9FAA20E32BA200BD1203 /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F1F9FA920E32BA200BD1203 /* ResultViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		8F1F9F9720E21B0E00BD1203 /* AppPrototypeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AppPrototypeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8F1F9F9B20E21B0E00BD1203 /* AppPrototypeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppPrototypeUITests.swift; sourceTree = "<group>"; };
 		8F1F9F9D20E21B0E00BD1203 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8F1F9FA920E32BA200BD1203 /* ResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				8F1F9F7B20E21B0C00BD1203 /* AppDelegate.swift */,
 				8F1F9F7D20E21B0C00BD1203 /* ViewController.swift */,
 				8F1F9F7F20E21B0C00BD1203 /* Main.storyboard */,
+				8F1F9FA920E32BA200BD1203 /* ResultViewController.swift */,
 				8F1F9F8220E21B0D00BD1203 /* Assets.xcassets */,
 				8F1F9F8420E21B0D00BD1203 /* LaunchScreen.storyboard */,
 				8F1F9F8720E21B0E00BD1203 /* Info.plist */,
@@ -258,6 +261,7 @@
 			files = (
 				8F1F9F7E20E21B0C00BD1203 /* ViewController.swift in Sources */,
 				8F1F9F7C20E21B0C00BD1203 /* AppDelegate.swift in Sources */,
+				8F1F9FAA20E32BA200BD1203 /* ResultViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
